@@ -97,3 +97,8 @@ article p,h2 {
     justify-content: center;
 }
 
+.content{
+    margin: 0 auto 0 auto;
+    width: 1200px;
+}
+
